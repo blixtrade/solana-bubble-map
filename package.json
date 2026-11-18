@@ -1,0 +1,13 @@
+{
+  "name": "solana-bubble-map",
+  "version": "1.0.0",
+  "description": "Holder bubble map for any Solana or pump.fun token: top holders sized by supply share, with linked wallets grouped by shared funder.",
+  "type": "module",
+  "bin": { "bubble-map": "bin/bubble-map.js" },
+  "scripts": { "start": "node bin/bubble-map.js", "test": "node --test" },
+  "engines": { "node": ">=22" },
+  "keywords": ["solana", "bubble-map", "bubblemaps", "token-holders", "holder-distribution", "pump-fun", "memecoin", "wallet-clusters", "rug-check", "on-chain-analytics"],
+  "homepage": "https://blixvip.com",
+  "repository": { "type": "git", "url": "git+https://github.com/blixtrade/solana-bubble-map.git" },
+  "license": "MIT"
+}
