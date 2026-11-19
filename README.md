@@ -114,6 +114,12 @@ npm test
 
 Tests run offline against fixtures, so they never depend on a live API.
 
+## Contributing
+
+Pull requests are welcome, and first-timers are too. Pick an issue labelled [good first issue](https://github.com/blixtrade/solana-bubble-map/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) or [help wanted](https://github.com/blixtrade/solana-bubble-map/issues?q=is%3Aissue+is%3Aopen+label%3A%22help+wanted%22), comment that you are taking it, and read [CONTRIBUTING.md](CONTRIBUTING.md). No API keys needed: the tests run offline.
+
+[![Contributors](https://contrib.rocks/image?repo=blixtrade/solana-bubble-map)](https://github.com/blixtrade/solana-bubble-map/graphs/contributors)
+
 ## More free Solana tools from Blix Trade
 
 | Tool | What it does |
